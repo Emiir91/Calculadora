@@ -19,7 +19,10 @@ public class CasosDePrueba {
 		
 		System.out.println("nahuel se re copo, le debo 2 heineken");
 		
-		
+		int numero1 =5;
+		int numero2 = 15;
+		int total = numero1 + numero2;
+		System.out.println("el total es: " + total);
 	}
 	
 	@Test
